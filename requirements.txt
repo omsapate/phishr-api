@@ -1,9 +1,10 @@
-tldextract==3.0.2
-Flask==1.1.2
-Flask_RESTful==0.3.8
-numpy==1.19.0
-Flask_Cors==3.0.9
 joblib==0.16.0
+Flask_Cors==3.0.9
+Flask_RESTful==0.3.8
+python_whois==0.7.3
+numpy==1.19.0
+Flask==1.1.2
+tldextract==3.0.2
 regex==2020.10.28
-whois==0.9.7
 beautifulsoup4==4.9.3
+whois==0.9.7

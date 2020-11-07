@@ -30,7 +30,7 @@ def make_predict():
 
     #checking and predicting    
     try:
-        checkprediction = inputScript.main(url)
+        checkprediction = inputFile.main(url)
         prediction = int(classifier.predict(checkprediction))
         print(prediction)
         result = {"prediction": prediction}
